@@ -98,8 +98,10 @@ public class MainActivity extends Activity {
         initReadCardTask();
         initWebView();
 
+        /* 需要使用请打开
         myMqttClient = new MyMqttClient();
         myMqttClient.start();
+        */
         getAppVersion();
 
     }
