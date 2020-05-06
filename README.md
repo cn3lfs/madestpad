@@ -13,6 +13,5 @@
 - <font size =4>run 开机启动</font>
 
 
-
-![image](https://github.com/core1011/madestpad/blob/master/image/image0.png)![image](https://github.com/core1011/madestpad/blob/master/image/image1.jpg)
 ![image](https://github.com/core1011/madestpad/blob/master/image/image2.jpg)
+![image](https://github.com/core1011/madestpad/blob/master/image/image0.png)![image](https://github.com/core1011/madestpad/blob/master/image/image1.jpg)
