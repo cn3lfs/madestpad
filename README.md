@@ -10,7 +10,7 @@
 - <font size =4>speakerbox 支持公司音响播放</font>
 - <font size =4>cache 支持缓存清除</font>
 - <font size =4>h5 支持前端本地文件读写,前端H5交互</font>
-- <font size =4>run 开机启动</font>
+- <font size =4>run 开机launcher运行</font>
 
 
 ![image](https://github.com/core1011/madestpad/blob/master/image/image2.jpg)
