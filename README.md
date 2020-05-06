@@ -1,5 +1,5 @@
 # madestpad
-### 用于公司平板终端的app基于webview开发的框架
+### 用于公司平板终端的app基于webview的开发
 
 
 - <font size =4>支持html css js image本地打包</font>
