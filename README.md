@@ -1,5 +1,5 @@
 # madestpad
-### 用于公司平板终端的app基于webview的开发
+### 用于公司平板终端的app基于webview的开发 IDE android studio 3.2
 
 
 - <font size =4>支持html css js image本地打包</font>
@@ -14,4 +14,5 @@
 
 
 ![image](https://github.com/core1011/madestpad/blob/master/image/image2.jpg)
-![image](https://github.com/core1011/madestpad/blob/master/image/image0.png)![image](https://github.com/core1011/madestpad/blob/master/image/image1.jpg)
+![image](https://github.com/core1011/madestpad/blob/master/image/image0.png)
+![image](https://github.com/core1011/madestpad/blob/master/image/image1.jpg)
